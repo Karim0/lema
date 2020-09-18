@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/lema/database/factories" isTestSource="false" packagePrefix="Database\Factories\" />
+      <sourceFolder url="file://$MODULE_DIR$/lema/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/lema/database/seeders" isTestSource="false" packagePrefix="Database\Seeders\" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/lema/app" isTestSource="false" packagePrefix="App\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/asm89/stack-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/brick/math" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/dnoegel/php-xdg-base-dir" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/dragonmantank/cron-expression" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/egulias/email-validator" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/facade/flare-client-php" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/facade/ignition" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/facade/ignition-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/fideloper/proxy" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/filp/whoops" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/fruitcake/laravel-cors" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/fzaninotto/faker" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/graham-campbell/result-type" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/guzzlehttp/guzzle" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/guzzlehttp/promises" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/guzzlehttp/psr7" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/hamcrest/hamcrest-php" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/laravel/framework" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/laravel/tinker" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/league/commonmark" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/league/flysystem" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/mockery/mockery" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/myclabs/deep-copy" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/nesbot/carbon" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/nikic/php-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/nunomaduro/collision" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/opis/closure" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/phar-io/manifest" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/phar-io/version" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/phpdocumentor/reflection-common" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/phpdocumentor/reflection-docblock" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/phpdocumentor/type-resolver" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/phpoption/phpoption" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/phpspec/prophecy" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/phpunit/php-code-coverage" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/phpunit/php-file-iterator" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/phpunit/php-invoker" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/phpunit/php-text-template" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/phpunit/php-timer" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/phpunit/phpunit" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/psr/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/psr/http-client" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/psr/http-message" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/psy/psysh" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/ralouphie/getallheaders" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/ramsey/collection" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/ramsey/uuid" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/scrivo/highlight.php" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/sebastian/cli-parser" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/sebastian/code-unit" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/sebastian/code-unit-reverse-lookup" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/sebastian/comparator" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/sebastian/complexity" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/sebastian/diff" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/sebastian/environment" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/sebastian/exporter" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/sebastian/global-state" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/sebastian/lines-of-code" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/sebastian/object-enumerator" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/sebastian/object-reflector" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/sebastian/recursion-context" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/sebastian/resource-operations" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/sebastian/type" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/sebastian/version" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/symfony/console" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/symfony/css-selector" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/symfony/deprecation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/symfony/error-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/symfony/event-dispatcher" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/symfony/event-dispatcher-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/symfony/finder" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/symfony/http-foundation" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/symfony/http-kernel" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/symfony/mime" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/symfony/polyfill-iconv" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/symfony/polyfill-intl-grapheme" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/symfony/polyfill-intl-idn" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/symfony/polyfill-intl-normalizer" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/symfony/polyfill-php70" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/symfony/polyfill-php72" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/symfony/polyfill-php73" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/symfony/polyfill-php80" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/symfony/process" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/symfony/routing" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/symfony/service-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/symfony/string" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/symfony/translation" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/symfony/translation-contracts" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/symfony/var-dumper" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/theseer/tokenizer" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/tijsverkoyen/css-to-inline-styles" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/vlucas/phpdotenv" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/voku/portable-ascii" />
+      <excludeFolder url="file://$MODULE_DIR$/lema/vendor/webmozart/assert" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="bootstrap" level="application" />
+    <orderEntry type="library" name="jquery-3.3.1.slim" level="application" />
+    <orderEntry type="library" name="popper.js" level="application" />
+    <orderEntry type="library" name="all" level="application" />
+    <orderEntry type="library" name="mdbootstrap" level="application" />
+    <orderEntry type="library" name="aos" level="application" />
+  </component>
+</module>
